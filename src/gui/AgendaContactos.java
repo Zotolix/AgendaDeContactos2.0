@@ -1,5 +1,5 @@
 
-package agendacontactos;
+package gui;
 
 public class AgendaContactos {
 
